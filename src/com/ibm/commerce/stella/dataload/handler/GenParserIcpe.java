@@ -1,6 +1,6 @@
 //********************************************************************************************
 // The purpose of this code is to call handler code for creating WCS7 understandable CSVs
-// Author: testin
+// Author: 
 // Email: vigneven@in.ibm.com
 // Version: 1.0
 //********************************************************************************************
