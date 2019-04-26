@@ -125,7 +125,6 @@ public class EmployeeSerialLastNameHandler {
 	log4JPropertyFile = "C:/Users/SaiKumarVemula/sai/StellaICPE/eppconf/log4j.properties";
 	//propFileName = args[0];
 	//log4JPropertyFile=args[1];
-	
 	EmployeeSerialLastNameHandler emp = new EmployeeSerialLastNameHandler();
 	emp.globalRead();
 	File file=new File(inputFile2);
